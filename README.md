@@ -42,7 +42,7 @@ The Salesforce CRM implementation for WhatsNext Vision Motors aims to:
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What I Learned
 
 - **Data Modeling** (Objects, Fields, Relationships)
 - **Lightning App Builder** for UI customization
@@ -51,6 +51,7 @@ The Salesforce CRM implementation for WhatsNext Vision Motors aims to:
 - **Batch Apex & Scheduled Apex**
 - Best practices in **Salesforce Development & Security**
 
+🔗 Project Links 🎥 Demo Video: https://drive.google.com/file/d/1uAXwOOF3Y91lwrMMNvL-LUOAll9I0SAb/view?usp=drive_link
 ---
 
 ## 🧠 Skills Required
