@@ -104,7 +104,7 @@ The Salesforce CRM implementation for WhatsNext Vision Motors aims to:
 
 ---
 
-## 📁 Folder Structure (Recommended)
+## SCREENSHOTS
 
 
 <img width="1366" height="641" alt="v11" src="https://github.com/user-attachments/assets/0856862b-2270-4bd7-a5a7-410d808ea6a2" />
